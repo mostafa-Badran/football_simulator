@@ -5,5 +5,4 @@
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- Run __php artisan passport:install__ (to generate Personal access client )
 - That's it: launch the main URL. 
